@@ -1,0 +1,10 @@
+{
+  "name": "aliasbot",
+  "version": "1.0.0",
+  "description": "Bot that can do other bot commands",
+  "main": "app.js",
+  "author": "Avinash",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
